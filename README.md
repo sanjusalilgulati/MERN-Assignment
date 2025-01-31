@@ -1,22 +1,41 @@
-# MERN Stack Assignment 🚀
+# MERN Assignment - Backend
 
-## Overview
-This repository contains my solutions to the MERN stack assignment. Each question is inside its respective folder.
+This is the backend for the MERN assignment, which includes solutions to **Question 1** and **Question 3**.
 
-## Questions & Solutions
-1. **Longest Increasing Subsequence (DSA)**
-   - Folder: `Question1/`
-   - Solution: `solution.js`
-   - Explanation: `explanation.md`
+## Questions Covered:
+- **Question 1**: DSA Problem - Longest Increasing Subsequence
+- **Question 3**: MongoDB Aggregation - Calculate Revenue by Store
 
-2. **MERN Full-Stack App**
-   - Folder: `Question3/`
-   - Backend: `Express.js` (Node.js)
-   - Frontend: `React.js`
+## Installation Instructions
 
-## How to Run the Solutions
+1. Clone the Repository
+   Clone this repository to your local machine:
+   git clone git+ssh://git@github.com/sanjusalilgulati/MERN-Assignment.git
+   cd backend
+   npm install
 
-### JavaScript Solutions (Node.js)
-```bash
-cd Question1
-node solution.js
+
+---
+
+### Frontend README (for Todo List Application)
+markdown
+# MERN Assignment - Frontend
+
+This is the frontend for the MERN assignment, which implements a **Dynamic Todo List Application** using React.
+
+## Features Implemented:
+- Add new tasks
+- Mark tasks as complete/incomplete
+- Delete tasks
+- Filter tasks by all, completed, and pending
+- Persist tasks in local storage
+
+## Installation Instructions
+
+1. Clone the Repository
+   Clone this repository to your local machine:
+   git clone git+ssh://git@github.com/sanjusalilgulati/MERN-Assignment.git
+   cd frontend
+   npm install
+   npm start
+
